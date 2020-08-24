@@ -1,7 +1,7 @@
 
 ### Hi there, This is Tron 👋
 
-1. BeiJing / HIT B.S. / HKU B.S. / Now in HangZhou / SDE@Alibaba 
+1. HIT B.S. / HKU B.S. / SDE @Alibaba 
 2. ACM-ICPCer : 2016 ShenYang silver / 2016 HangZhou Copper / 2017 Xi'an Copper
 3. 知乎: [zu3zz](https://www.zhihu.com/people/ga-me-35) / Bilibili: [-3z7](https://space.bilibili.com/8086732)
 
